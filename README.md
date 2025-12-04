@@ -15,7 +15,7 @@
 
 ## About Me
 
-- 🧑‍💻 Full-Stack Developer Intern  
+-  Full-Stack Developer Intern  
 -  Frontend: React, Tailwind, Bootstrap  
 - Backend: Go (Gin), GORM, PostgreSQL  
 - 🐳 DevOps: Docker, Git, JSON Server  
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### **Frontend**
 <p>
@@ -49,7 +49,7 @@
 
 ---
 
-# 📸 Featured Project Screenshots
+#  Featured Project Screenshots
 
 
 ##  **Food Delivery Website (React + GoLang)** ###  Modern UI • Authentication • Cart • Wishlist • Orders
@@ -103,13 +103,30 @@
 # GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nabeel7736&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nabeel7736&theme=tokyonight" />
+  <!-- GitHub Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=nabeel7736&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
+    height="180" 
+    alt="GitHub Stats" 
+  />
+
+  <!-- GitHub Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=nabeel7736&theme=tokyonight&hide_border=true" 
+    height="180" 
+    alt="GitHub Streak" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeel7736&layout=compact&theme=tokyonight" />
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeel7736&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180"
+    alt="Top Languages" 
+  />
 </p>
+
 
 ---
 
