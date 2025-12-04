@@ -105,7 +105,25 @@
 <p align="center">
   <!-- GitHub Streak Stats -->
   <img 
-    src="https://streak-stats.demolab.com/?user=nabeel7736&theme=tokyonight&hide_border=true" 
+    src="https://streak-stats.demolab.com/?user=Nabeel-mp&theme=tokyonight&hide_border=true" 
+    height="180" 
+    alt="GitHub Streak" 
+  />
+</p>
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img 
+<img src="https://github-readme-stats-godkingjay.vercel.app/api?username=Nabeel-mp&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180" 
+    alt="GitHub Stats" 
+  />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img 
+<img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Nabeel-mp&layout=compact&theme=tokyonight&hide_border=true" 
     height="180" 
     alt="GitHub Streak" 
   />
