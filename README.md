@@ -94,9 +94,9 @@
 
 | Project | Tech Stack | Link |
 |--------|------------|------|
-| Food Delivery Website | React, Tailwind CSS, Context API, JSON-Server | https://github.com/Nabeel-mp/foodieapp.git |
-| Cineverse Booking (Go Backend API) | GO, Gin, Templates, PostgreSQL , GORM | https://github.com/Nabeel-mp/CineverseBooking.git |
-| 💬 Real-Time Chat App | Go, WebSockets, Gin, PostgreSQL, Templates | [Coming soon](https://github.com/Nabeel-mp/ChatApp.git) |
+| Food Delivery Website | React, Tailwind CSS, Context API, JSON-Server | https://github.com/nabeel-mp/foodieapp.git |
+| Cineverse Booking (Go Backend API) | GO, Gin, Templates, PostgreSQL , GORM | https://github.com/nabeel-mp/CineverseBooking.git |
+| 💬 Real-Time Chat App | Go, WebSockets, Gin, PostgreSQL, Templates | [Coming soon](https://github.com/nabeel-mp/ChatApp.git) |
 
 ---
 
