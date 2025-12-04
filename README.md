@@ -103,27 +103,11 @@
 # GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img 
-    src="https://github-readme-stats-godkingjay.vercel.app/api?username=nabeel7736&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="180" 
-    alt="GitHub Stats" 
-  />
-
   <!-- GitHub Streak Stats -->
   <img 
     src="https://streak-stats.demolab.com/?user=nabeel7736&theme=tokyonight&hide_border=true" 
     height="180" 
     alt="GitHub Streak" 
-  />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=nabeel7736&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Top Languages" 
   />
 </p>
 
