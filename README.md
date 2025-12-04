@@ -53,8 +53,7 @@
 ## 🍔 **Food Delivery Website (React + GoLang)** ### 🚀 Modern UI • Authentication • Cart • Wishlist • Orders
 
 <p align="center">
-  <img src="<img width="3200" height="1800" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/2a8af195-2f83-48d1-9ac3-b51f1e13db5d" />
-" width="70%" />
+  <img width="70%" src="https://github.com/user-attachments/assets/2a8af195-2f83-48d1-9ac3-b51f1e13db5d" alt="Food Delivery Screenshot"/>
 </p>
 
 
@@ -64,24 +63,19 @@
 ### 📊 Admin Dashboard • Analytics • Users • Bookings • Movies/Shows
 
 <p align="center">
-  <img src="<img width="3200" height="1800" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/8d14bd87-d052-49ef-b6f0-844e3fe11b2b" />
-" width="70%" />
+  <img width="70%" src="https://github.com/user-attachments/assets/8d14bd87-d052-49ef-b6f0-844e3fe11b2b" alt="Cineverse Dashboard" />
 </p>
 
 <p align="center">
-  <img src="<img width="3200" height="1800" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/ec00ccc8-995d-472c-b53e-36039e2f5b71" />
-" width="70%" />
+  <img width="70%" src="https://github.com/user-attachments/assets/ec00ccc8-995d-472c-b53e-36039e2f5b71" alt="Cineverse Booking" />
 </p>
 
 <p align="center">
-  <img src="<img width="3200" height="1800" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/15d3715e-3a98-4448-86d5-cace1e61b0b1" />
-" width="70%" />
+  <img width="70%" src="https://github.com/user-attachments/assets/15d3715e-3a98-4448-86d5-cace1e61b0b1" alt="Cineverse Users" />
 </p>
 
 <p align="center">
-  <img src="<img width="3200" height="1800" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/142166b7-7402-4947-9f41-ae8c7e09b841" />
-" />
-" width="70%" />
+  <img width="70%" src="https://github.com/user-attachments/assets/142166b7-7402-4947-9f41-ae8c7e09b841" alt="Cineverse Movies" />
 </p>
 
 ---
@@ -89,8 +83,7 @@
 ## 💬 **Real-Time Chat App (Go + WebSockets)** ### 🔔 Live Messaging • PostgreSQL • WebSockets
 
 <p align="center">
-  <img src="<img width="3200" height="1800" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/15286d24-64de-4123-b1f1-02c37ddf9e95" />
-" width="70%" />
+  <img width="70%" src="https://github.com/user-attachments/assets/15286d24-64de-4123-b1f1-02c37ddf9e95" alt="ChatApp Screenshot" />
 </p>
 
 ---
