@@ -16,7 +16,7 @@
 ## About Me
 
 - 🧑‍💻 Full-Stack Developer Intern  
-- ⚛️ Frontend: React, Tailwind, Bootstrap  
+-  Frontend: React, Tailwind, Bootstrap  
 - Backend: Go (Gin), GORM, PostgreSQL  
 - 🐳 DevOps: Docker, Git, JSON Server  
 -  Currently building:  
@@ -46,11 +46,8 @@
 
 # 📸 Featured Project Screenshots
 
-> 🎨 **Showcase your work beautifully!**
 
----
-
-## 🍔 **Food Delivery Website (React + GoLang)** ### 🚀 Modern UI • Authentication • Cart • Wishlist • Orders
+##  **Food Delivery Website (React + GoLang)** ###  Modern UI • Authentication • Cart • Wishlist • Orders
 
 <p align="center">
   <img width="70%" src="https://github.com/user-attachments/assets/2a8af195-2f83-48d1-9ac3-b51f1e13db5d" alt="Food Delivery Screenshot"/>
@@ -59,8 +56,8 @@
 
 ---
 
-## 🛠 **Cineverse Booking (Go Backend API) — GO + Templates**
-### 📊 Admin Dashboard • Analytics • Users • Bookings • Movies/Shows
+## **Cineverse Booking (Go Backend API) — GO + Templates**
+###  Admin Dashboard • Analytics • Users • Bookings • Movies/Shows
 
 <p align="center">
   <img width="70%" src="https://github.com/user-attachments/assets/a94344e3-d61c-422e-bc14-605330ca16fa" alt="Cineverse Dashboard" />
@@ -80,7 +77,7 @@
 
 ---
 
-## 💬 **Real-Time Chat App (Go + WebSockets)** ### 🔔 Live Messaging • PostgreSQL • WebSockets
+## 💬 **Real-Time Chat App (Go + WebSockets)** ###  Live Messaging • PostgreSQL • WebSockets
 
 <p align="center">
   <img width="70%" src="https://github.com/user-attachments/assets/15286d24-64de-4123-b1f1-02c37ddf9e95" alt="ChatApp Screenshot" />
@@ -88,17 +85,17 @@
 
 ---
 
-# 📘 Project Repositories
+# Project Repositories
 
 | Project | Tech Stack | Link |
 |--------|------------|------|
-| 🍔 Food Delivery Website | React, Tailwind CSS, Context API, JSON-Server | https://github.com/nabeel7736/foodieapp.git |
-| 🛠 Cineverse Booking (Go Backend API) | GO, Gin, Templates, PostgreSQL , GORM | https://github.com/nabeel7736/CineverseBooking.git |
+| Food Delivery Website | React, Tailwind CSS, Context API, JSON-Server | https://github.com/nabeel7736/foodieapp.git |
+| Cineverse Booking (Go Backend API) | GO, Gin, Templates, PostgreSQL , GORM | https://github.com/nabeel7736/CineverseBooking.git |
 | 💬 Real-Time Chat App | Go, WebSockets, Gin, PostgreSQL, Templates | [Coming soon](https://github.com/nabeel7736/ChatApp.git) |
 
 ---
 
-# 📈 GitHub Stats
+# GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nabeel7736&show_icons=true&theme=tokyonight" />
@@ -124,4 +121,4 @@
 
 ---
 
-<p align="center">✨ If you like my work, consider giving a ⭐ to my repositories!</p>
+<p align="center"> If you like my work, consider giving a to my repositories!</p>
