@@ -94,9 +94,9 @@
 
 | Project | Tech Stack | Link |
 |--------|------------|------|
-| Food Delivery Website | React, Tailwind CSS, Context API, JSON-Server | https://github.com/nabeel7736/foodieapp.git |
-| Cineverse Booking (Go Backend API) | GO, Gin, Templates, PostgreSQL , GORM | https://github.com/nabeel7736/CineverseBooking.git |
-| 💬 Real-Time Chat App | Go, WebSockets, Gin, PostgreSQL, Templates | [Coming soon](https://github.com/nabeel7736/ChatApp.git) |
+| Food Delivery Website | React, Tailwind CSS, Context API, JSON-Server | https://github.com/Nabeel-mp/foodieapp.git |
+| Cineverse Booking (Go Backend API) | GO, Gin, Templates, PostgreSQL , GORM | https://github.com/Nabeel-mp/CineverseBooking.git |
+| 💬 Real-Time Chat App | Go, WebSockets, Gin, PostgreSQL, Templates | [Coming soon](https://github.com/Nabeel-mp/ChatApp.git) |
 
 ---
 
@@ -106,24 +106,6 @@
   <!-- GitHub Streak Stats -->
   <img 
     src="https://streak-stats.demolab.com/?user=Nabeel-mp&theme=tokyonight&hide_border=true" 
-    height="180" 
-    alt="GitHub Streak" 
-  />
-</p>
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img 
-<img src="https://github-readme-stats-godkingjay.vercel.app/api?username=Nabeel-mp&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180" 
-    alt="GitHub Stats" 
-  />
-</p>
-
-<p align="center">
-  <!-- GitHub Streak Stats -->
-  <img 
-<img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Nabeel-mp&layout=compact&theme=tokyonight&hide_border=true" 
     height="180" 
     alt="GitHub Streak" 
   />
