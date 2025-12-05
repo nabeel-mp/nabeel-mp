@@ -34,7 +34,7 @@
 
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=go,postgres,sqlite,mongodb" />
+  <img src="https://skillicons.dev/icons?i=go,postgres,sqlite,mongodb,firebase" />
 </p>
 
 <p>
