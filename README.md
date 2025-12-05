@@ -105,10 +105,11 @@
 <p align="center">
   <!-- GitHub Streak Stats -->
   <img 
-src="https://streak-stats.demolab.com/?username=nabeel-mp&theme=tokyonight&hide_border=true"
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nabeel-mp" alt="GitHub Streak" 
     height="180" 
     alt="GitHub Streak" 
   />
+  </a>
 </p>
 
 
