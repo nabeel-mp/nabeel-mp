@@ -105,11 +105,7 @@
 <p align="center">
   <!-- GitHub Streak Stats -->
   <img 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nabeel-mp" alt="GitHub Streak" 
-    height="180" 
-    alt="GitHub Streak" 
-  />
-  </a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nabeel-mp&theme=dark&border_radius=5&exclude_days=Sun&type=png" alt="GitHub Streak" /></a>
 </p>
 
 
