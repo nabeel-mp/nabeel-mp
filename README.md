@@ -20,7 +20,7 @@
 - Backend: Go (Gin), GORM, PostgreSQL  
 - 🐳 DevOps: Docker, Git, JSON Server  
 -  Currently building:  
-  **Full Food Delivery Website + Admin Panel (React + Go)** - ☕ Coffee-driven coding  
+  **Real-Time Chat Application (Templates + Go)** - ☕ Coffee-driven coding
 - ⚽ Love playing football in free time  
 
 ---
