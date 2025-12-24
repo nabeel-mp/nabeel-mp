@@ -15,7 +15,7 @@
 
 ## About Me
 
--  Full-Stack Developer Intern  
+-  Full-Stack Developer  
 -  Frontend: React, Tailwind, Bootstrap  
 - Backend: Go (Gin), GORM, PostgreSQL  
 - 🐳 DevOps: Docker, Git, JSON Server  
