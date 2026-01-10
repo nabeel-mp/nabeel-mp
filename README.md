@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Muhammed+Nabeel;Full-Stack+Developer;React+⚛️+%7C+GoLang+🦫+%7C+PostgreSQL+🐘;Building+Modern+Web+Apps+" />
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Muhammed+Nabeel;Full-Stack+Developer;React+⚛️+%7C+GoLang+🦫+%7C+PostgreSQL+🐘;Microservices+%7C+Kafka+%7C+Redis;Building+Scalable+Web+Systems+" />
+</p>
+
 </p>
 
 ---
