@@ -98,7 +98,7 @@
 # GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nabeel-mp&theme=dark&border_radius=5&exclude_days=Sun&type=png" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeel-mp&theme=tokyonight" alt="GitHub Streak" width="90%" />
 </p>
 
 ---
@@ -115,5 +115,8 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
 
 <p align="center"> If you like my work, consider giving a ⭐ to my repositories!</p>
